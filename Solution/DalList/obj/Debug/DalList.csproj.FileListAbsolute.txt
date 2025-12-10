@@ -1,0 +1,13 @@
+M:\שנה ב\C# .net\project\Solution\bin\DalList.deps.json
+M:\שנה ב\C# .net\project\Solution\bin\DalList.dll
+M:\שנה ב\C# .net\project\Solution\bin\DalList.pdb
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.dll
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\refint\DalList.dll
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.pdb
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\ref\DalList.dll

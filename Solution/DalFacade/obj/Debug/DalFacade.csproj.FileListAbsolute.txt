@@ -1,0 +1,11 @@
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.deps.json
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.pdb
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
