@@ -12,11 +12,21 @@ internal static class DataSource
 
     internal static class Config
     {
-        internal const int start = 0;
-        private static int id = start;
-        public static int GetId()
-        {
-            return id++;
-        }
+        internal const int ProductMinCode = 100;
+        internal const int SaletMinCode = 200;
+
+        private static int ProductIndex=ProductMinCode;
+        private static int SaleIndex = SaletMinCode;
+
+        public static int ProductCode => ProductIndex++;
+        public static int SaleCode => SaleIndex++;
+
+
+
+
+
+
+
+
     }
 }
